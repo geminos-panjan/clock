@@ -15,6 +15,19 @@ body {
   margin: 0;
 }
 
+a:link,
+a:visited {
+  color: navy;
+}
+
+a:hover {
+  color: purple;
+}
+
+a:active {
+  color: red;
+}
+
 img {
   display: block;
   width: 100%;
